@@ -364,7 +364,7 @@ API telah menangani berbagai validasi input seperti:
 
 # 👨‍💻 Author
 
-Nama: YOUR_NAME  
+Nama: Ranzyah Adinata Aldo Ala Alfreda 
 Project: Tweet Topic Classification  
 
 ---
