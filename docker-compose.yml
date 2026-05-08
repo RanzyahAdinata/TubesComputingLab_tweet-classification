@@ -1,0 +1,17 @@
+version: '3.9'
+
+services:
+
+  backend:
+    build: ./backend
+    container_name: tweet-backend
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build: ./frontend
+    container_name: tweet-frontend
+    ports:
+      - "8501:8501"
+    depends_on:
+      - backend
