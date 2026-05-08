@@ -338,7 +338,7 @@ frontend/app.py
 Model berhasil mencapai accuracy sekitar:
 
 ```text
-75%
+81%
 ```
 
 menggunakan:
