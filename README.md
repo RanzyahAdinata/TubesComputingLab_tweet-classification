@@ -1,4 +1,5 @@
 # 🐦 Tweet Topic Classification
+<img width="1503" height="839" alt="Screenshot 2026-05-08 at 09 19 41" src="https://github.com/user-attachments/assets/84fd647d-8091-4f17-9ef7-ec782c3663f2" />
 
 Aplikasi klasifikasi topik tweet berbasis Machine Learning dan Natural Language Processing (NLP).
 
